@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+g1 = Game.new('Fallout 4', 'PC, PS4, XBox One', '39.99')
+g2 = Game.new('Europa Universalis IV', 'PC', '24.99')
+g3 = Game.new('Mario 64','N64','12.99')
